@@ -1,4 +1,4 @@
-package com.tawane.catgirlss
+package com.tawane.catgirls
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

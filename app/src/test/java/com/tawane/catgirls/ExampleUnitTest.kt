@@ -1,4 +1,4 @@
-package com.tawane.catgirlss
+package com.tawane.catgirls
 
 import org.junit.Test
 
